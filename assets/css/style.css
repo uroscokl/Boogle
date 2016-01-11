@@ -1,0 +1,183 @@
+* a:hover {
+    text-decoration: underline;
+    opacity: 1
+}
+
+* div {
+    border 1px dashed #d9fffc;
+}
+
+.topbar {
+    background-color: none;
+    width: auto;
+    height: 30px;
+    margin-top: 20px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    vertical-align: middle;
+}
+
+.navbar {
+    background-color: none;
+    float: right;
+    margin-right: 30px;
+    min-width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 30px;
+}
+
+.navbtn {
+    background-color: none;
+    height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+    opacity: 0.55;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.btn-prijava {
+    display: block
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    color: white;
+    background-color: #4385f7;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.btn-prijava:hover{
+    box-shadow: 0px 2px 2px #e4e4e4;
+}
+
+#btn-p-clr {
+    color: white;
+    text-decoration: none
+}
+
+.page {
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    height: auto;
+    position: relative
+}
+
+#logobox {
+    width: 300px;
+    height: 110px;
+    margin: auto;
+    position: relative;
+    display: block
+}
+
+.srcbox {
+    width: 100%;
+	height: 40px;
+    margin-top: 40px;
+    vertical-align: middle;
+    border: 1px solid #c9c9c9;
+	border-radius: 1px;
+	background-color: #FFFFFF;
+}
+
+.srcnav {
+    background-color: none;
+    float: right;
+    min-width: 80px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.srcnav-btn {
+    background-color: none;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+    opacity: 0.40;
+    padding-right: 5px;
+    padding-left: 5px;
+    float: right;
+}
+
+.srcnav-btn:hover {
+    opacity: 1
+}
+
+.footer {
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    position:absolute;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    vertical-align: middle;
+}
+
+.footlink {
+    background-color: none;
+    min-width: 100px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 33px;
+    margin: 0px 20px 0px 20px;
+}
+
+.footbtn {
+    background-color: none;
+    height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+    opacity: 0.55;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.gumbbox {
+    margin:auto;
+    height: 36px;
+    width: 250px;
+    margin-top: 30px;
+    display: block;
+}
+
+.gumb {
+    height: 36px;
+    line-height: 36px;
+
+    background-color: #F2F2F2;
+    border: 1px solid #F2F2F2;
+    border-radius: 2px;
+    color: #757575;
+    
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    
+    min-width: 54px;
+    padding: 0px 16px;
+    text-align: center;
+    display: inline-block;
+}
+.gumb:hover {
+    border: 1px solid #cbcbcb;
+    box-shadow: 0px 2px 2px #e4e4e4;
+    color: black;
+}
